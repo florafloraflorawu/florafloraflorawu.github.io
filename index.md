@@ -9,7 +9,7 @@
 
 ---
 [SwimmingCoach Presentation](/pdf/SwimmingCoach.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swimmingClipArt.jpg"/>
 
 ---
 [Testing]((https://creator.voiceflow.com/prototype/6724025b2fb5fa3fa88fcc04))
