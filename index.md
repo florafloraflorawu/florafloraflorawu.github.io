@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### AI Projects
 
-[Project 1 Title](/sample_page)
+[SwimmingCoach.ai]([/sample_page](https://creator.voiceflow.com/prototype/672a849a5365965888026d9d))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
